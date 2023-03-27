@@ -6,3 +6,4 @@
 - React Router
 - Redux Toolkit
 - Tailwind CSS
+- Axios
